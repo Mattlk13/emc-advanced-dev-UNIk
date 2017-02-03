@@ -1,5 +1,7 @@
 # <img src="http://i.imgur.com/npkzp8l.png" alt="Build and run unikernels" width="141" height="50">
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/58258ad185414d53806ac9943173852a)](https://www.codacy.com/app/Mattlk13/emc-advanced-dev-UNIk?utm_source=github.com&utm_medium=referral&utm_content=Mattlk13/emc-advanced-dev-UNIk&utm_campaign=badger)
+
 UniK (pronounced you-neek) is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 
 UniK runs and manages instances of compiled images across a variety of cloud providers as well as locally on Virtualbox.
